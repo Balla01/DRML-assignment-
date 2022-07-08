@@ -1,13 +1,8 @@
-import pandas
-import numpy
-import sklearn 
-import pickle 
-import os           
-import random  
-import nltk   
-from sklearn.feature_extraction.text import CountVectorizer
-vect = CountVectorizer(stop_words='english') 
-nltk.download('stopwords')
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-nltk.download('punkt')
+pandas
+numpy
+sklearn 
+pickle 
+os           
+random  
+nltk   
+
