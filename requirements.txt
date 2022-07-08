@@ -1,8 +1,6 @@
 pandas
 numpy
 sklearn 
-pickle 
 os           
 random  
 nltk   
-
